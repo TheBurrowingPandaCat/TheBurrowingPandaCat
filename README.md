@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheBurrowingPandaCat
 - 👀 I’m interested in video games, servers, and websites.
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m currently learning Rust and Go.
 - 💞️ I’m looking to collaborate on simulations.
 - 📫 How to reach me theburrowingpandacat@badmaonu.mailer.me
 <!---
